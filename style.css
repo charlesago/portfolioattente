@@ -1,0 +1,11 @@
+.divTitre{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+.divBouton{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10%;
+
+}
